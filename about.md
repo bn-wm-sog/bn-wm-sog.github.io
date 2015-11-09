@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Über uns
 
-A place to include any other types of information that you'd like to include about yourself.
+Der BUND Naturschutz arbeitet wirtschaftlich, parteipolitisch und konfessionell unabhängig. Er versteht sich als unabhängiger Anwalt der Natur und dient ausschließlich gemeinnützigen Zwecken. Unser Ziel ist es, die natürlichen Lebensgrundlagen für Menschen, Tiere und Pflanzen zu erhalten. Wir wollen die natürliche Schönheit und Vielfalt unserer Heimat bewahren.
 
-### Contact me
+### Kontakt
 
 [email@domain.com](mailto:email@domain.com)
